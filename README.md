@@ -1,16 +1,20 @@
-## Hi there 👋
+# hiya :D 
+my name is brik but you can call me brick... brickbattler... mahbrick... yata yata 
 
-<!--
-**mahbrick/mahbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i live in russia having horrible life in internet! so i managed to get a workarounds 
 
-Here are some ideas to get you started:
+i mostly love roblox but doesnt play it alot cuz... ya know 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favorites 
+[Lua](https://www.lua.org/) 
+
+[Roblox](https://www.roblox.com/) 
+
+Talking with strangers (mostly in Roblox Studio Community Discord Server) 
+
+being silly :3
+
+## Projects 
+...seriously? just go to my website and we DONE
+
+https://brik.nekoweb.org
